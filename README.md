@@ -46,6 +46,10 @@ This content is **free to use and share** under the following license:
 Made with dedication and love by **Syed (2025)**  
 Follow or connect: [Linkedin - https://www.linkedin.com/in/01syedsajjadhussain/] 
 
+## 📥 Grab the PDF:  
+https://github.com/SyedSajjad09/ultimate-oops-interview-guide-by-Syed/raw/main/ultimate-oops-interview-guide-by-Syed.pdf
+
+
 ---
 
 ## 💬 Feedback or Suggestions?
